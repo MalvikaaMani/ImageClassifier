@@ -1,0 +1,1 @@
+This project classifies cat vs dog images using transfer learning with MobileNetV2. 
